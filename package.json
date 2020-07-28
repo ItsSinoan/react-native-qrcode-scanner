@@ -28,7 +28,7 @@
   "dependencies": {
     "@react-native-community/async-storage": "^1.6.1",
     "prop-types": "^15.5.10",
-    "react-native-permissions": "^2.0.2"
+    "react-native-permissions": "2.0.2"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
